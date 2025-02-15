@@ -26,19 +26,23 @@ Este projeto foi desenvolvido durante o programa Sementes do Brasil Tech, com o 
 ## Funcionalidades Implementadas
 
 ### Cadastro de Clientes
-Desenvolvemos um módulo completo para o cadastro de clientes, permitindo a inclusão, exclusão e atualização de dados.
+Desenvolvemos um módulo completo para o cadastro de clientes, onde adicionamos um novo cliente ao nosso banco de dados..
 
-![Imagem do Cadastro de Clientes](caminho/para/imagem/cadastro.png)
+![Imagem do Sistema de cadastro](imagens-do-projeto/tela-de-cadastro.png)
 
 ### Sistema de Login
-Implementação de um sistema de login seguro, garantindo a autenticação dos usuários.
+Implementação de um sistema de login seguro, que valida e verifica login e senha do usuario.
 
 ![Imagem do Sistema de Login](imagens-do-projeto/tela-de-login.png)
 
 ### Cotação de Planos
-Funcionalidade que permite aos usuários realizar cotações de planos de acordo com a data da viagem, com preços dinâmicos que variam conforme as condições.
+Funcionalidade que permite aos usuários adicionar os dados da viagem como quantidade de pesspas data de ida e volta local de destino entre outros.
 
 ![Imagem da Cotação de Planos](imagens-do-projeto/tela-de-cotacao.png)
+
+com os dados obtidos sao calculados preços dinâmicos que variam conforme as condições.
+
+![Imagem da tela de orçamento](imagens-do-projeto/tela-de-orcamento.png)
 
 ---
 
@@ -47,11 +51,11 @@ Funcionalidade que permite aos usuários realizar cotações de planos de acordo
 ### Chatbot Auxiliar
 Desenvolvemos um chatbot para auxiliar na navegação do aplicativo, oferecendo respostas rápidas e automáticas às dúvidas dos usuários.
 
-![Imagem do Chatbot](caminho/para/imagem/chatbot.png)
+![Imagem do Chatbot](imagens-do-projeto/chatbot.png)
 
 sendo uma de suas funcionalidades a integração de um sistema de cotação de moedas em tempo real utilizando uma API via HTTP, permitindo aos usuários obter informações atualizadas sobre taxas de câmbio.
 
-![Imagem do Sistema de Cotação de Moedas](caminho/para/imagem/cotacao_moedas.png)
+![Imagem do Sistema de Cotação de Moedas](imagens-do-projeto/chatbot-cotacao-de-moeda.png)
 
 ---
 

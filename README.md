@@ -21,6 +21,8 @@ Este projeto foi desenvolvido durante o programa Sementes do Brasil Tech, com o 
 
 ---
 
+![Imagen tela inicial](imagens-do-projeto/tela-inicial.png)
+
 ## Funcionalidades Implementadas
 
 ### Cadastro de Clientes
@@ -31,12 +33,12 @@ Desenvolvemos um módulo completo para o cadastro de clientes, permitindo a incl
 ### Sistema de Login
 Implementação de um sistema de login seguro, garantindo a autenticação dos usuários.
 
-![Imagem do Sistema de Login](caminho/para/imagem/login.png)
+![Imagem do Sistema de Login](imagens-do-projeto/tela-de-login.png)
 
 ### Cotação de Planos
 Funcionalidade que permite aos usuários realizar cotações de planos de acordo com a data da viagem, com preços dinâmicos que variam conforme as condições.
 
-![Imagem da Cotação de Planos](caminho/para/imagem/cotacao.png)
+![Imagem da Cotação de Planos](imagens-do-projeto/tela-de-cotacao.png)
 
 ---
 
